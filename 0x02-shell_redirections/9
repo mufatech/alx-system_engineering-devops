@@ -1,0 +1,2 @@
+#!/bin/bash
+tail $iacta1 -n 1 >> $iacta2 
