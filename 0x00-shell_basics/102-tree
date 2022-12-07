@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -pwelcome_to_school
+mkdir -p welcome/to/school
